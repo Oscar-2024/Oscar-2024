@@ -1,5 +1,7 @@
-<h1 align="center">Hola 👋, me llamo Oscar</h1>
-<h3 align="center">Soy programador hace 21 años, de la vieja escuela, pero actualizando mis conocimientos este 2024</h3>
+<h1 align="center">Hola 👋</h1>
+<h3 align="center">Soy programador hace 21 años, estos últimos 10 años me he dedicado a la gestión corporativa de proyectos, pero ahora estoy retomando mi pasión... la programación, 
+    armando una ruta de aprendizaje orientada al Full Stack, con los nuevas tecnologías que hay en la actualidad.
+</h3>
 
 - 📫 Me puedes contactar al correo **oscar.carrasco1980@gmail.com**
 
