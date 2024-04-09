@@ -3,7 +3,7 @@
     armando una ruta de aprendizaje orientada al Full Stack, con los nuevas tecnologías que hay en la actualidad.
 </h3>
 
-- 📫 Me puedes contactar al correo **oscar.carrasco1980@gmail.com**
+- 📫 Me puedes contactar al correo **oscar.carrasco1980@gmail.com** o visitarme en **https://www.getonbrd.com/p/oscar-carrasco-31c7**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
